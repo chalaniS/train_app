@@ -1,8 +1,9 @@
 # train_app
 
-A new Flutter project.
 
-## Getting Started
+![Train](https://user-images.githubusercontent.com/99180967/216517903-b04b6219-8581-436f-9acb-3081ab283d9f.png)
+
+
 
 This project is a starting point for a Flutter application.
 
